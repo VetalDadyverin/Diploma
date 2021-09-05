@@ -1,0 +1,6 @@
+/debug
+/release
+*.vcxproj
+*.vcxproj.*
+.qmake.stash
+.vs
